@@ -1,9 +1,10 @@
 
 ### Hi there. 👋
 
-## C#/.NET/WPF/Windows Desktop Software Developer
+## C#/.NET/WPF/Windows Desktop, Blockchain Software Developer
 
 I am a result-oriented developer with 7 years of experience in Windows desktop software development. For the last 7 years, my preferred technologies are C#/.NET, WPF, MVVM, Xamarin, VSTO, Entity Framework, and MS SQL Server. In my work, I always try to understand your needs and suggest a solution that provides the best quality without excessive expenses.
+I have also solid background of the Blockchain technologies.  
 
 ## TOP SKILLS
 - C#/.NET, VB.NET
